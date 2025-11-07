@@ -1,5 +1,5 @@
 # Acknowledgment
 
-To @maoyejimin,
+To [@maoamao](https://github.com/maoyejimin),
 
 This organization exist because of you.
